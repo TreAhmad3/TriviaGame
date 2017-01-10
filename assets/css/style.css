@@ -1,3 +1,13 @@
 body {
     background: url(../images/back.jpg);
  }
+
+ .container {
+ 	background:#C0A4BA;
+ 	height:100%;
+
+ }
+
+ .questions {
+ 	margin:50px;
+ }
